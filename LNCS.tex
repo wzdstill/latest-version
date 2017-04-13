@@ -36,7 +36,7 @@
 
 
 \begin{document}
-\title{Compact Inner Product Encryption from LWE}%\\
+\title{Efficient Inner Product Encryption from LWE for fine-grained access control}%\\
 
 \author{}
 
@@ -45,7 +45,7 @@
 \maketitle
 
 \begin{abstract}
-Inner product encryption (IPE) introduced by Katz, Sahai, and Waters~\cite{EC:KatSahWat08} is a generalization of identity-based encryption in which ciphertexts and secret keys are associated to a vectors in some finite field. In an IPE scheme, a ciphertext can only be decrypted by a secret key if the vector associated with the latter is orthogonal to that of the ciphertext.\\
+Inner product encryption (IPE) introduced by Katz, Sahai, and Waters~\cite{EC:KatSahWat08} is a generalization of identity-based encryption in which ciphertexts and secret keys are associated to a vectors in some finite field. In an IPE scheme, a ciphertext can only be decrypted by a secret key if the vector associated with the latter is orthogonal to that of the ciphertext, which provides fine-grained access control and has attractive applications\\
 In this work, we propose a lattice-based inner product encryption(IPE) scheme whose security follows from the $Learning~with~errors (\LWE)$ assumption, which has a compact public-key and cipertexts (with size similar to known lattice-based PKE schemes). This improves over previous IPE schemes from lattices, which have a public key and cipertexts that grow at least linearly with the length of the predicate vectors.\\
 ~~~~~Additionally, we construct a hierarchical IPE (HIPE) scheme and propose a fuzzy IBE scheme by using our techniques. Our HIPE scheme and fuzzy IBE scheme are more efficient than prior works in terms of public key and cipertexts size.\\
 \textbf{Keywords}: predicate encryption, (hierarchical) inner-product encryption, learning with errors, fuzzy identity-based encryption.

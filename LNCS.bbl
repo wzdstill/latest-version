@@ -1,0 +1,203 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{ABV{\etalchar{+}}12}
+
+\bibitem[ABB10]{EC:AgrBonBoy10}
+Shweta Agrawal, Dan Boneh, and Xavier Boyen.
+\newblock Efficient lattice {(H)IBE} in the standard model.
+\newblock In Gilbert \cite{EC10}, pages 553--572.
+
+\bibitem[ABV{\etalchar{+}}12]{PKC:ABVVW12}
+Shweta Agrawal, Xavier Boyen, Vinod Vaikuntanathan, Panagiotis Voulgaris, and
+  Hoeteck Wee.
+\newblock Functional encryption for threshold functions (or fuzzy ibe) from
+  lattices.
+\newblock In Marc Fischlin, Johannes Buchmann, and Mark Manulis, editors, {\em
+  PKC~2012}, volume 7293 of {\em {LNCS}}, pages 280--297. Springer, Heidelberg,
+  May 2012.
+
+\bibitem[ADM12]{LC:AbdDeCMoc12}
+Michel Abdalla, Angelo {De Caro}, and Karina Mochetti.
+\newblock Lattice-based hierarchical inner product encryption.
+\newblock In Alejandro Hevia and Gregory Neven, editors, {\em LATINCRYPT~2012},
+  volume 7533 of {\em {LNCS}}, pages 121--138. Springer, Heidelberg, October
+  2012.
+
+\bibitem[AFV11]{AC:AgrFreVai11}
+Shweta Agrawal, David~Mandell Freeman, and Vinod Vaikuntanathan.
+\newblock Functional encryption for inner product predicates from learning with
+  errors.
+\newblock In Dong~Hoon Lee and Xiaoyun Wang, editors, {\em ASIACRYPT~2011},
+  volume 7073 of {\em {LNCS}}, pages 21--40. Springer, Heidelberg, December
+  2011.
+
+\bibitem[AL10]{PKC:AttLib10}
+Nuttapong Attrapadung and Beno{\^\i}t Libert.
+\newblock Functional encryption for inner product: Achieving constant-size
+  ciphertexts with adaptive security or support for negation.
+\newblock In Phong~Q. Nguyen and David Pointcheval, editors, {\em PKC~2010},
+  volume 6056 of {\em {LNCS}}, pages 384--402. Springer, Heidelberg, May 2010.
+
+\bibitem[AP10]{Alwen2010}
+Jo{\"e}l Alwen and Chris Peikert.
+\newblock Generating shorter bases for hard random lattices.
+\newblock {\em Theory of Computing Systems}, 48(3):535--553, 2010.
+
+\bibitem[AP14]{C:AlpPei14}
+Jacob {Alperin-Sheriff} and Chris Peikert.
+\newblock Faster bootstrapping with polynomial error.
+\newblock In Juan~A. Garay and Rosario Gennaro, editors, {\em CRYPTO~2014, Part
+  I}, volume 8616 of {\em {LNCS}}, pages 297--314. Springer, Heidelberg, August
+  2014.
+
+\bibitem[BH08]{AC:BonHam08}
+Dan Boneh and Michael Hamburg.
+\newblock Generalized identity based and broadcast encryption schemes.
+\newblock In Josef Pieprzyk, editor, {\em ASIACRYPT~2008}, volume 5350 of {\em
+  {LNCS}}, pages 455--470. Springer, Heidelberg, December 2008.
+
+\bibitem[BLP{\etalchar{+}}13]{STOC:BLPRS13}
+Zvika Brakerski, Adeline Langlois, Chris Peikert, Oded Regev, and Damien
+  Stehl{\'e}.
+\newblock Classical hardness of learning with errors.
+\newblock In Dan Boneh, Tim Roughgarden, and Joan Feigenbaum, editors, {\em
+  45th ACM STOC}, pages 575--584. {ACM} Press, June 2013.
+
+\bibitem[BW07]{TCC:BonWat07}
+Dan Boneh and Brent Waters.
+\newblock Conjunctive, subset, and range queries on encrypted data.
+\newblock In Salil~P. Vadhan, editor, {\em TCC~2007}, volume 4392 of {\em
+  {LNCS}}, pages 535--554. Springer, Heidelberg, February 2007.
+
+\bibitem[CHKP10]{EC:CHKP10}
+David Cash, Dennis Hofheinz, Eike Kiltz, and Chris Peikert.
+\newblock Bonsai trees, or how to delegate a lattice basis.
+\newblock In Gilbert \cite{EC10}, pages 523--552.
+
+\bibitem[DRS04]{EC:DodReySmi04}
+Yevgeniy Dodis, Leonid Reyzin, and Adam Smith.
+\newblock Fuzzy extractors: How to generate strong keys from biometrics and
+  other noisy data.
+\newblock In Christian Cachin and Jan Camenisch, editors, {\em EUROCRYPT~2004},
+  volume 3027 of {\em {LNCS}}, pages 523--540. Springer, Heidelberg, May 2004.
+
+\bibitem[Gil10]{EC10}
+Henri Gilbert, editor.
+\newblock {\em EUROCRYPT~2010}, volume 6110 of {\em {LNCS}}. Springer,
+  Heidelberg, May 2010.
+
+\bibitem[GPV08]{STOC:GenPeiVai08}
+Craig Gentry, Chris Peikert, and Vinod Vaikuntanathan.
+\newblock Trapdoors for hard lattices and new cryptographic constructions.
+\newblock In Richard~E. Ladner and Cynthia Dwork, editors, {\em 40th ACM STOC},
+  pages 197--206. {ACM} Press, May 2008.
+
+\bibitem[GSW13]{C:GenSahWat13}
+Craig Gentry, Amit Sahai, and Brent Waters.
+\newblock Homomorphic encryption from learning with errors:
+  Conceptually-simpler, asymptotically-faster, attribute-based.
+\newblock In Ran Canetti and Juan~A. Garay, editors, {\em CRYPTO~2013, Part I},
+  volume 8042 of {\em {LNCS}}, pages 75--92. Springer, Heidelberg, August 2013.
+
+\bibitem[HAO15]{PKC:HirAbeOka15}
+Ryo Hiromasa, Masayuki Abe, and Tatsuaki Okamoto.
+\newblock Packing messages and optimizing bootstrapping in {GSW}-{FHE}.
+\newblock In Jonathan Katz, editor, {\em PKC~2015}, volume 9020 of {\em
+  {LNCS}}, pages 699--715. Springer, Heidelberg, March~/~April 2015.
+
+\bibitem[KSW08]{EC:KatSahWat08}
+Jonathan Katz, Amit Sahai, and Brent Waters.
+\newblock Predicate encryption supporting disjunctions, polynomial equations,
+  and inner products.
+\newblock In Nigel~P. Smart, editor, {\em EUROCRYPT~2008}, volume 4965 of {\em
+  {LNCS}}, pages 146--162. Springer, Heidelberg, April 2008.
+
+\bibitem[LOS{\etalchar{+}}10]{EC:LOSTW10}
+Allison~B. Lewko, Tatsuaki Okamoto, Amit Sahai, Katsuyuki Takashima, and Brent
+  Waters.
+\newblock Fully secure functional encryption: Attribute-based encryption and
+  (hierarchical) inner product encryption.
+\newblock In Gilbert \cite{EC10}, pages 62--91.
+
+\bibitem[MM11]{C:MicMol11}
+Daniele Micciancio and Petros Mol.
+\newblock Pseudorandom knapsacks and the sample complexity of {LWE}
+  search-to-decision reductions.
+\newblock In Phillip Rogaway, editor, {\em CRYPTO~2011}, volume 6841 of {\em
+  {LNCS}}, pages 465--484. Springer, Heidelberg, August 2011.
+
+\bibitem[MP12]{EC:MicPei12}
+Daniele Micciancio and Chris Peikert.
+\newblock Trapdoors for lattices: Simpler, tighter, faster, smaller.
+\newblock In Pointcheval and Johansson \cite{EC12}, pages 700--718.
+
+\bibitem[OT09]{AC:OkaTak09}
+Tatsuaki Okamoto and Katsuyuki Takashima.
+\newblock Hierarchical predicate encryption for inner-products.
+\newblock In Mitsuru Matsui, editor, {\em ASIACRYPT~2009}, volume 5912 of {\em
+  {LNCS}}, pages 214--231. Springer, Heidelberg, December 2009.
+
+\bibitem[OT10]{C:OkaTak10}
+Tatsuaki Okamoto and Katsuyuki Takashima.
+\newblock Fully secure functional encryption with general relations from the
+  decisional linear assumption.
+\newblock In Tal Rabin, editor, {\em CRYPTO~2010}, volume 6223 of {\em {LNCS}},
+  pages 191--208. Springer, Heidelberg, August 2010.
+
+\bibitem[OT11]{CANS:OkaTak11}
+Tatsuaki Okamoto and Katsuyuki Takashima.
+\newblock Achieving short ciphertexts or short secret-keys for adaptively
+  secure general inner-product encryption.
+\newblock In Dongdai Lin, Gene Tsudik, and Xiaoyun Wang, editors, {\em CANS
+  11}, volume 7092 of {\em {LNCS}}, pages 138--159. Springer, Heidelberg,
+  December 2011.
+
+\bibitem[OT12]{EC:OkaTak12}
+Tatsuaki Okamoto and Katsuyuki Takashima.
+\newblock Adaptively attribute-hiding (hierarchical) inner product encryption.
+\newblock In Pointcheval and Johansson \cite{EC12}, pages 591--608.
+
+\bibitem[Par11]{Park2011Inner}
+Jong~Hwan Park.
+\newblock Inner-product encryption under standard assumptions.
+\newblock {\em Designs, Codes and Cryptography}, 58(3):235--257, 2011.
+
+\bibitem[Pei09]{STOC:Peikert09}
+Chris Peikert.
+\newblock Public-key cryptosystems from the worst-case shortest vector problem:
+  extended abstract.
+\newblock In Michael Mitzenmacher, editor, {\em 41st ACM STOC}, pages 333--342.
+  {ACM} Press, May~/~June 2009.
+
+\bibitem[PJ12]{EC12}
+David Pointcheval and Thomas Johansson, editors.
+\newblock {\em EUROCRYPT~2012}, volume 7237 of {\em {LNCS}}. Springer,
+  Heidelberg, April 2012.
+
+\bibitem[Reg05]{STOC:Regev05}
+Oded Regev.
+\newblock On lattices, learning with errors, random linear codes, and
+  cryptography.
+\newblock In Harold~N. Gabow and Ronald Fagin, editors, {\em 37th ACM STOC},
+  pages 84--93. {ACM} Press, May 2005.
+
+\bibitem[Sho94]{FOCS:Shor94}
+Peter~W. Shor.
+\newblock Algorithms for quantum computation: Discrete logarithms and
+  factoring.
+\newblock In {\em 35th FOCS}, pages 124--134. {IEEE} Computer Society Press,
+  November 1994.
+
+\bibitem[SW05]{EC:SahWat05}
+Amit Sahai and Brent~R. Waters.
+\newblock Fuzzy identity-based encryption.
+\newblock In Ronald Cramer, editor, {\em EUROCRYPT~2005}, volume 3494 of {\em
+  {LNCS}}, pages 457--473. Springer, Heidelberg, May 2005.
+
+\bibitem[Xag13]{PKC:Xagawa13}
+Keita Xagawa.
+\newblock Improved (hierarchical) inner-product encryption from lattices.
+\newblock In Kaoru Kurosawa and Goichiro Hanaoka, editors, {\em PKC~2013},
+  volume 7778 of {\em {LNCS}}, pages 235--252. Springer, Heidelberg,
+  February~/~March 2013.
+
+\end{thebibliography}
